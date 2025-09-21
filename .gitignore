@@ -1,1 +1,4 @@
 .DS_Store
+
+# Internal documentation - not for public consumption
+profile/documentation.md
